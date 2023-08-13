@@ -1,4 +1,4 @@
 module.exports = function reverse (n) {
-let num = int.toString().split('').reverse().slice(0,-1)
+let num = Math.abs(int).toFixed.toString().split('').reverse()
 return +num.join('')
 }
